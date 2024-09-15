@@ -1,1 +1,2 @@
 # SVM
+SVM is a powerful supervised learning algorithm used for classification, regression, and outlier detection tasks. It works by finding the hyperplane that best separates the classes in the feature space while maximizing the margin, which is the distance between the hyperplane and the nearest data points from each class. SVM can handle linear and non-linear classification tasks through the use of different kernel functions.
